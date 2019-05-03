@@ -1,0 +1,14 @@
+
+May 10-11   FinTech       InsurTechWarsaw
+May 11-12   Ethereal      SummitNew York
+May 11-17   Blockchain    Week NYCNew York
+May 12-13   World Satoshi SummitNew Delhi
+Jun 4-5MIT  EmTech        NEXTCambridge, MA
+Jun 4-6     Spark+AI      SummitSan Francisco
+Jun 11-15     CeBIT       Hanover, Germany
+Aug 9-12     DEFCON         Las Vegas
+Aug 29-30   BoxWorksSan     Francisco
+Oct 22-24 Qualcomm 4G/5G  SummitHong Kong
+Dec 3-8      NIPS            Montreal
+Jan 8-11     CES            Las Vegas
+Feb 25-28 SuperReturn   InternationalBerlin |

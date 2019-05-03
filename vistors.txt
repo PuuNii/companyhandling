@@ -1,0 +1,12 @@
+Visitor       :        Topic      :        DateTime    :    Person Visiting
+
+Patricia M Cruz       INTERVIEW           05/11/2018         Daphne Sewell
+                                          02:43 PM  
+                        
+Kenisha E Anthony     Internship          05/11/2018        Bertha Henry  
+                                           01:37 PM
+
+Daniel Ruiz    Interview for Internship   05/11/2018        Steve Geller      
+                                           12:09 PM                      |
+                                          
+                   

@@ -1,0 +1,8 @@
+ahmed 1234 3
+hr 1234 2
+dev 1234 3
+mang mang1 1
+dev2 1234 3
+dev3 1234 3
+sec 1234 4
+puni 139 2

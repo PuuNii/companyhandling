@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1526096797 source:d:\music\software-system\softwaresystem\headmangaer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526091999 d:\music\software-system\softwaresystem\login.h
+
+1526092291 d:\music\software-system\softwaresystem\headmangaer.h
+
+1526097505 source:d:\music\software-system\softwaresystem\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526098497 source:d:\music\software-system\softwaresystem\login.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526092653 d:\music\software-system\softwaresystem\humanresours.h
+
+1526096726 source:d:\music\software-system\softwaresystem\humanresours.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526098444 d:\music\software-system\softwaresystem\security.h
+
+1526098417 source:d:\music\software-system\softwaresystem\security.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526096726 source:d:\music\software-system\softwaresystem\developer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526096068 d:\music\software-system\softwaresystem\developer.h
+
+1526099592 source:d:\smister-proj\developer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526091999 d:\smister-proj\login.h
+
+1526100761 d:\smister-proj\headmangaer.h
+
+1526092653 d:\smister-proj\humanresours.h
+
+1526098444 d:\smister-proj\security.h
+
+1526096068 d:\smister-proj\developer.h
+
+1526100289 source:d:\smister-proj\humanresours.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526098497 source:d:\smister-proj\login.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526097505 source:d:\smister-proj\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526099592 source:d:\smister-proj\security.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526100761 source:d:\smister-proj\headmangaer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526099592 source:f:\smister-proj\developer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526091999 f:\smister-proj\login.h
+
+1526100761 f:\smister-proj\headmangaer.h
+
+1526092653 f:\smister-proj\humanresours.h
+
+1526098444 f:\smister-proj\security.h
+
+1526096068 f:\smister-proj\developer.h
+
+1526100761 source:f:\smister-proj\headmangaer.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526100289 source:f:\smister-proj\humanresours.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526098497 source:f:\smister-proj\login.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526097505 source:f:\smister-proj\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
+1526099592 source:f:\smister-proj\security.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<windows.h>
+	<chrono>
+	"Login.h"
+	"headMangaer.h"
+	"humanResours.h"
+	"security.h"
+	"developer.h"
+
